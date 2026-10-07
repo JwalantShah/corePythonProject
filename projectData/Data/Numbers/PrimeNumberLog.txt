@@ -1,0 +1,19 @@
+Last Prime :: 11 :: Total Generated Primes :: 5 :: Fri Jun 10 13:38:20 2022 :: Fri Jun 10 13:38:32 2022 :: Total run time :: Minutes : 0 Seconds : 12.0
+Last Prime :: 151051 :: Total Generated Primes :: 13934 :: Fri Jun 10 13:42:49 2022 :: Fri Jun 10 13:45:19 2022 :: Total run time :: Minutes : 2 || Seconds : 30.0
+Last Prime :: 165713 :: Total Generated Primes :: 1215 :: Fri Jun 10 13:45:49 2022 :: Fri Jun 10 13:46:19 2022 :: Total run time :: Minutes : 0 || Seconds : 30.0
+Last Prime :: 220933 :: Total Generated Primes :: 4540 :: Fri Jun 10 13:49:28 2022 :: Fri Jun 10 13:51:43 2022 :: Total run time :: Minutes : 2 || Seconds : 15.0
+Last Prime :: 612371 :: Total Generated Primes :: 30344 :: Fri Jun 10 14:14:59 2022 :: Fri Jun 10 14:44:59 2022 :: Total run time :: Minutes : 30 || Seconds : 0.0
+Last Prime :: 695873 :: Total Generated Primes :: 6212 :: Sat Jun 11 10:48:58 2022 :: Sat Jun 11 10:58:58 2022 :: Total run time :: Minutes : 10 || Seconds : 0.0
+Last Prime :: 1232453 :: Total Generated Primes :: 38979 :: Sat Jun 11 13:38:06 2022 :: Sat Jun 11 15:08:06 2022 :: Total run time :: Minutes : 90 || Seconds : 0.0
+Last Prime :: 1237493 :: Total Generated Primes :: 332 :: Sun Jun 12 16:13:41 2022 :: Sun Jun 12 16:14:41 2022 :: Total run time :: Minutes : 1 || Seconds : 0.0
+Last Prime :: 1243579 :: Total Generated Primes :: 431 :: Fri Oct  4 16:46:05 2024 :: Fri Oct  4 16:47:05 2024 :: Total run time :: Minutes : 1 || Seconds : 0
+Last Prime :: 11565811 :: Total Generated Primes :: 665372 :: Fri Oct  4 17:07:32 2024 :: Fri Oct  4 17:08:32 2024 :: Total run time :: Minutes : 1 || Seconds : 0
+Last Prime :: 125860289 :: Total Generated Primes :: 6394930 :: Tue Oct 15 13:46:49 2024 :: Tue Oct 15 14:23:59 2024 :: Total run time :: Minutes : 25 || Seconds : 0
+Last Prime :: 145071679 :: Total Generated Primes :: 1026120 :: Tue Oct 15 14:32:34 2024 :: Tue Oct 15 14:37:34 2024 :: Total run time :: Minutes : 5 || Seconds : 0
+Last Prime :: 166377163 :: Total Generated Primes :: 1129185 :: Tue Oct 15 15:40:45 2024 :: Tue Oct 15 15:50:45 2024 :: Total run time :: Minutes : 10 || Seconds : 0
+Last Prime :: 169093763 :: Total Generated Primes :: 143613 :: Tue Oct 15 21:30:49 2024 :: Tue Oct 15 21:31:49 2024 :: Total run time :: Minutes : 1 || Seconds : 0
+Last Prime :: 171700877 :: Total Generated Primes :: 137669 :: Tue Oct 15 21:34:18 2024 :: Tue Oct 15 21:35:18 2024 :: Total run time :: Minutes : 1 || Seconds : 0
+Last Prime :: 173556847 :: Total Generated Primes :: 97992 :: Tue Oct 15 21:40:47 2024 :: Tue Oct 15 21:41:32 2024 :: Total run time :: Minutes : 0 || Seconds : 45.0
+Last Prime :: 174780283 :: Total Generated Primes :: 64342 :: Wed Oct 16 13:40:22 2024 :: Wed Oct 16 13:40:37 2024 :: Total run time :: Minutes : 0 || Seconds : 15.0
+Last Prime :: 184435631 :: Total Generated Primes :: 508011 :: Thu Oct 17 13:46:02 2024 :: Thu Oct 17 13:48:02 2024 :: Total run time :: Minutes : 2 || Seconds : 0
+Last Prime :: 185180293 :: Total Generated Primes :: 39264 :: Thu Nov  7 12:27:55 2024 :: Thu Nov  7 12:28:25 2024 :: Total run time :: Minutes : 0 || Seconds : 30.0
